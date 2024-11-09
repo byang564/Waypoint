@@ -3,6 +3,7 @@ from bridges.bridges import Bridges
 from bridges.color import Color
 import os
 from minheap import MinHeap
+from fibheap import FibonnaciHeap
 from dotenv import load_dotenv
 
 load_dotenv()
